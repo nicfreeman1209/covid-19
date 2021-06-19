@@ -1,0 +1,315 @@
+LAD20CD,LAD20NM,GOV_NM,CTRY19CD,CTRY19NM,Tier
+E06000001,Hartlepool,Hartlepool,E92000001,England,3
+E06000002,Middlesbrough,Middlesbrough,E92000001,England,3
+E06000003,Redcar and Cleveland,Redcar and Cleveland,E92000001,England,3
+E06000004,Stockton-on-Tees,Stockton-on-Tees,E92000001,England,3
+E06000005,Darlington,Darlington,E92000001,England,3
+E06000006,Halton,Liverpool City Region,E92000001,England,2
+E06000007,Warrington,Warrington and Cheshire,E92000001,England,2
+E06000008,Blackburn with Darwen,Blackburn with Darwen,E92000001,England,3
+E06000009,Blackpool,Blackpool,E92000001,England,3
+E06000010,"Kingston upon Hull, City of",The Humber,E92000001,England,3
+E06000011,East Riding of Yorkshire,The Humber,E92000001,England,3
+E06000012,North East Lincolnshire,Lincolnshire,E92000001,England,3
+E06000013,North Lincolnshire,Lincolnshire,E92000001,England,3
+E06000014,York,York,E92000001,England,2
+E06000015,Derby,Derby and Derbyshire,E92000001,England,3
+E06000016,Leicester,Leicester and Leicestershire,E92000001,England,3
+E06000017,Rutland,Rutland,E92000001,England,2
+E06000018,Nottingham,Nottingham and Nottinghamshire,E92000001,England,3
+E06000019,"Herefordshire, County of",Herefordshire,E92000001,England,2
+E06000020,Telford and Wrekin,Shropshire and Telford & Wrekin,E92000001,England,2
+E06000021,Stoke-on-Trent,Staffordshire and Stoke-on-Trent,E92000001,England,3
+E06000022,Bath and North East Somerset,Bath and North East Somerset,E92000001,England,2
+E06000023,"Bristol, City of",Bristol,E92000001,England,3
+E06000024,North Somerset,North Somerset,E92000001,England,3
+E06000025,South Gloucestershire,South Gloucestershire,E92000001,England,3
+E06000026,Plymouth,Devon,E92000001,England,2
+E06000027,Torbay,Devon,E92000001,England,2
+E06000030,Swindon,Wiltshire and Swindon,E92000001,England,2
+E06000031,Peterborough,"Cambridgeshire, including Peterborough",E92000001,England,2
+E06000032,Luton,Bedfordshire and Milton Keynes,E92000001,England,2
+E06000033,Southend-on-Sea,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E06000034,Thurrock,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E06000035,Medway,Kent and Medway,E92000001,England,3
+E06000036,Bracknell Forest,Bracknell Forest,E92000001,England,2
+E06000037,West Berkshire,West Berkshire,E92000001,England,2
+E06000038,Reading,Reading,E92000001,England,2
+E06000039,Slough,Slough (remainder of Berkshire is tier 2: High alert),E92000001,England,3
+E06000040,Windsor and Maidenhead,Windsor and Maidenhead,E92000001,England,2
+E06000041,Wokingham,Wokingham,E92000001,England,2
+E06000042,Milton Keynes,Bedfordshire and Milton Keynes,E92000001,England,2
+E06000043,Brighton and Hove,Brighton and Hove,E92000001,England,2
+E06000044,Portsmouth,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E06000045,Southampton,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E06000046,Isle of Wight,Isle of Wight,E92000001,England,1
+E06000047,County Durham,County Durham,E92000001,England,3
+E06000049,Cheshire East,Warrington and Cheshire,E92000001,England,2
+E06000050,Cheshire West and Chester,Warrington and Cheshire,E92000001,England,2
+E06000051,Shropshire,Shropshire and Telford & Wrekin,E92000001,England,2
+E06000052,Cornwall,Cornwall,E92000001,England,1
+E06000053,Isles of Scilly,Isles of Scilly,E92000001,England,1
+E06000054,Wiltshire,Wiltshire and Swindon,E92000001,England,2
+E06000055,Bedford,Bedfordshire and Milton Keynes,E92000001,England,2
+E06000056,Central Bedfordshire,Bedfordshire and Milton Keynes,E92000001,England,2
+E06000057,Northumberland,Northumberland,E92000001,England,3
+E06000058,"Bournemouth, Christchurch and Poole","Bournemouth, Christchurch, Poole",E92000001,England,2
+E06000059,Dorset,Dorset,E92000001,England,2
+E06000060,Buckinghamshire,Buckinghamshire,E92000001,England,2
+E07000008,Cambridge,"Cambridgeshire, including Peterborough",E92000001,England,2
+E07000009,East Cambridgeshire,"Cambridgeshire, including Peterborough",E92000001,England,2
+E07000010,Fenland,"Cambridgeshire, including Peterborough",E92000001,England,2
+E07000011,Huntingdonshire,"Cambridgeshire, including Peterborough",E92000001,England,2
+E07000012,South Cambridgeshire,"Cambridgeshire, including Peterborough",E92000001,England,2
+E07000026,Allerdale,Cumbria,E92000001,England,2
+E07000027,Barrow-in-Furness,Cumbria,E92000001,England,2
+E07000028,Carlisle,Cumbria,E92000001,England,2
+E07000029,Copeland,Cumbria,E92000001,England,2
+E07000030,Eden,Cumbria,E92000001,England,2
+E07000031,South Lakeland,Cumbria,E92000001,England,2
+E07000032,Amber Valley,Derby and Derbyshire,E92000001,England,3
+E07000033,Bolsover,Derby and Derbyshire,E92000001,England,3
+E07000034,Chesterfield,Derby and Derbyshire,E92000001,England,3
+E07000035,Derbyshire Dales,Derby and Derbyshire,E92000001,England,3
+E07000036,Erewash,Derby and Derbyshire,E92000001,England,3
+E07000037,High Peak,Derby and Derbyshire,E92000001,England,3
+E07000038,North East Derbyshire,Derby and Derbyshire,E92000001,England,3
+E07000039,South Derbyshire,Derby and Derbyshire,E92000001,England,3
+E07000040,East Devon,Devon,E92000001,England,2
+E07000041,Exeter,Devon,E92000001,England,2
+E07000042,Mid Devon,Devon,E92000001,England,2
+E07000043,North Devon,Devon,E92000001,England,2
+E07000044,South Hams,Devon,E92000001,England,2
+E07000045,Teignbridge,Devon,E92000001,England,2
+E07000046,Torridge,Devon,E92000001,England,2
+E07000047,West Devon,Devon,E92000001,England,2
+E07000061,Eastbourne,East Sussex,E92000001,England,2
+E07000062,Hastings,East Sussex,E92000001,England,2
+E07000063,Lewes,East Sussex,E92000001,England,2
+E07000064,Rother,East Sussex,E92000001,England,2
+E07000065,Wealden,East Sussex,E92000001,England,2
+E07000066,Basildon,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000067,Braintree,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000068,Brentwood,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000069,Castle Point,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000070,Chelmsford,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000071,Colchester,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000072,Epping Forest,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000073,Harlow,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000074,Maldon,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000075,Rochford,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000076,Tendring,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000077,Uttlesford,"Essex, Thurrock and Southend on Sea",E92000001,England,2
+E07000078,Cheltenham,Gloucestershire,E92000001,England,2
+E07000079,Cotswold,Gloucestershire,E92000001,England,2
+E07000080,Forest of Dean,Gloucestershire,E92000001,England,2
+E07000081,Gloucester,Gloucestershire,E92000001,England,2
+E07000082,Stroud,Gloucestershire,E92000001,England,2
+E07000083,Tewkesbury,Gloucestershire,E92000001,England,2
+E07000084,Basingstoke and Deane,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000085,East Hampshire,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000086,Eastleigh,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000087,Fareham,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000088,Gosport,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000089,Hart,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000090,Havant,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000091,New Forest,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000092,Rushmoor,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000093,Test Valley,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000094,Winchester,"Hampshire (except the Isle of Wight), Portsmouth and Southampton",E92000001,England,2
+E07000095,Broxbourne,Hertfordshire,E92000001,England,2
+E07000096,Dacorum,Hertfordshire,E92000001,England,2
+E07000098,Hertsmere,Hertfordshire,E92000001,England,2
+E07000099,North Hertfordshire,Hertfordshire,E92000001,England,2
+E07000102,Three Rivers,Hertfordshire,E92000001,England,2
+E07000103,Watford,Hertfordshire,E92000001,England,2
+E07000105,Ashford,Kent and Medway,E92000001,England,3
+E07000106,Canterbury,Kent and Medway,E92000001,England,3
+E07000107,Dartford,Kent and Medway,E92000001,England,3
+E07000108,Dover,Kent and Medway,E92000001,England,3
+E07000109,Gravesham,Kent and Medway,E92000001,England,3
+E07000110,Maidstone,Kent and Medway,E92000001,England,3
+E07000111,Sevenoaks,Kent and Medway,E92000001,England,3
+E07000112,Folkestone and Hythe,Kent and Medway,E92000001,England,3
+E07000113,Swale,Kent and Medway,E92000001,England,3
+E07000114,Thanet,Kent and Medway,E92000001,England,3
+E07000115,Tonbridge and Malling,Kent and Medway,E92000001,England,3
+E07000116,Tunbridge Wells,Kent and Medway,E92000001,England,3
+E07000117,Burnley,Lancashire,E92000001,England,3
+E07000118,Chorley,Lancashire,E92000001,England,3
+E07000119,Fylde,Lancashire,E92000001,England,3
+E07000120,Hyndburn,Lancashire,E92000001,England,3
+E07000121,Lancaster,Lancashire,E92000001,England,3
+E07000122,Pendle,Lancashire,E92000001,England,3
+E07000123,Preston,Lancashire,E92000001,England,3
+E07000124,Ribble Valley,Lancashire,E92000001,England,3
+E07000125,Rossendale,Lancashire,E92000001,England,3
+E07000126,South Ribble,Lancashire,E92000001,England,3
+E07000127,West Lancashire,Lancashire,E92000001,England,3
+E07000128,Wyre,Lancashire,E92000001,England,3
+E07000129,Blaby,Leicester and Leicestershire,E92000001,England,3
+E07000130,Charnwood,Leicester and Leicestershire,E92000001,England,3
+E07000131,Harborough,Leicester and Leicestershire,E92000001,England,3
+E07000132,Hinckley and Bosworth,Leicester and Leicestershire,E92000001,England,3
+E07000133,Melton,Leicester and Leicestershire,E92000001,England,3
+E07000134,North West Leicestershire,Leicester and Leicestershire,E92000001,England,3
+E07000135,Oadby and Wigston,Leicester and Leicestershire,E92000001,England,3
+E07000136,Boston,Lincolnshire,E92000001,England,3
+E07000137,East Lindsey,Lincolnshire,E92000001,England,3
+E07000138,Lincoln,Lincolnshire,E92000001,England,3
+E07000139,North Kesteven,Lincolnshire,E92000001,England,3
+E07000140,South Holland,Lincolnshire,E92000001,England,3
+E07000141,South Kesteven,Lincolnshire,E92000001,England,3
+E07000142,West Lindsey,Lincolnshire,E92000001,England,3
+E07000143,Breckland,Norfolk,E92000001,England,2
+E07000144,Broadland,Norfolk,E92000001,England,2
+E07000145,Great Yarmouth,Norfolk,E92000001,England,2
+E07000146,King's Lynn and West Norfolk,Norfolk,E92000001,England,2
+E07000147,North Norfolk,Norfolk,E92000001,England,2
+E07000148,Norwich,Norfolk,E92000001,England,2
+E07000149,South Norfolk,Norfolk,E92000001,England,2
+E07000150,Corby,Northamptonshire,E92000001,England,2
+E07000151,Daventry,Northamptonshire,E92000001,England,2
+E07000152,East Northamptonshire,Northamptonshire,E92000001,England,2
+E07000153,Kettering,Northamptonshire,E92000001,England,2
+E07000154,Northampton,Northamptonshire,E92000001,England,2
+E07000155,South Northamptonshire,Northamptonshire,E92000001,England,2
+E07000156,Wellingborough,Northamptonshire,E92000001,England,2
+E07000163,Craven,North Yorkshire,E92000001,England,2
+E07000164,Hambleton,North Yorkshire,E92000001,England,2
+E07000165,Harrogate,North Yorkshire,E92000001,England,2
+E07000166,Richmondshire,North Yorkshire,E92000001,England,2
+E07000167,Ryedale,North Yorkshire,E92000001,England,2
+E07000168,Scarborough,North Yorkshire,E92000001,England,2
+E07000169,Selby,North Yorkshire,E92000001,England,2
+E07000170,Ashfield,Nottingham and Nottinghamshire,E92000001,England,3
+E07000171,Bassetlaw,Nottingham and Nottinghamshire,E92000001,England,3
+E07000172,Broxtowe,Nottingham and Nottinghamshire,E92000001,England,3
+E07000173,Gedling,Nottingham and Nottinghamshire,E92000001,England,3
+E07000174,Mansfield,Nottingham and Nottinghamshire,E92000001,England,3
+E07000175,Newark and Sherwood,Nottingham and Nottinghamshire,E92000001,England,3
+E07000176,Rushcliffe,Nottingham and Nottinghamshire,E92000001,England,3
+E07000177,Cherwell,Oxfordshire,E92000001,England,2
+E07000178,Oxford,Oxfordshire,E92000001,England,2
+E07000179,South Oxfordshire,Oxfordshire,E92000001,England,2
+E07000180,Vale of White Horse,Oxfordshire,E92000001,England,2
+E07000181,West Oxfordshire,Oxfordshire,E92000001,England,2
+E07000187,Mendip,"South Somerset, Somerset West and Taunton, Mendip and Sedgemoor",E92000001,England,2
+E07000188,Sedgemoor,"South Somerset, Somerset West and Taunton, Mendip and Sedgemoor",E92000001,England,2
+E07000189,South Somerset,"South Somerset, Somerset West and Taunton, Mendip and Sedgemoor",E92000001,England,2
+E07000192,Cannock Chase,Staffordshire and Stoke-on-Trent,E92000001,England,3
+E07000193,East Staffordshire,Staffordshire and Stoke-on-Trent,E92000001,England,3
+E07000194,Lichfield,Staffordshire and Stoke-on-Trent,E92000001,England,3
+E07000195,Newcastle-under-Lyme,Staffordshire and Stoke-on-Trent,E92000001,England,3
+E07000196,South Staffordshire,Staffordshire and Stoke-on-Trent,E92000001,England,3
+E07000197,Stafford,Staffordshire and Stoke-on-Trent,E92000001,England,3
+E07000198,Staffordshire Moorlands,Staffordshire and Stoke-on-Trent,E92000001,England,3
+E07000199,Tamworth,Staffordshire and Stoke-on-Trent,E92000001,England,3
+E07000200,Babergh,Suffolk,E92000001,England,2
+E07000202,Ipswich,Suffolk,E92000001,England,2
+E07000203,Mid Suffolk,Suffolk,E92000001,England,2
+E07000207,Elmbridge,Surrey,E92000001,England,2
+E07000208,Epsom and Ewell,Surrey,E92000001,England,2
+E07000209,Guildford,Surrey,E92000001,England,2
+E07000210,Mole Valley,Surrey,E92000001,England,2
+E07000211,Reigate and Banstead,Surrey,E92000001,England,2
+E07000212,Runnymede,Surrey,E92000001,England,2
+E07000213,Spelthorne,Surrey,E92000001,England,2
+E07000214,Surrey Heath,Surrey,E92000001,England,2
+E07000215,Tandridge,Surrey,E92000001,England,2
+E07000216,Waverley,Surrey,E92000001,England,2
+E07000217,Woking,Surrey,E92000001,England,2
+E07000218,North Warwickshire,"Warwickshire, Coventry and Solihull",E92000001,England,3
+E07000219,Nuneaton and Bedworth,"Warwickshire, Coventry and Solihull",E92000001,England,3
+E07000220,Rugby,"Warwickshire, Coventry and Solihull",E92000001,England,3
+E07000221,Stratford-on-Avon,"Warwickshire, Coventry and Solihull",E92000001,England,3
+E07000222,Warwick,"Warwickshire, Coventry and Solihull",E92000001,England,3
+E07000223,Adur,West Sussex,E92000001,England,2
+E07000224,Arun,West Sussex,E92000001,England,2
+E07000225,Chichester,West Sussex,E92000001,England,2
+E07000226,Crawley,West Sussex,E92000001,England,2
+E07000227,Horsham,West Sussex,E92000001,England,2
+E07000228,Mid Sussex,West Sussex,E92000001,England,2
+E07000229,Worthing,West Sussex,E92000001,England,2
+E07000234,Bromsgrove,Worcestershire,E92000001,England,2
+E07000235,Malvern Hills,Worcestershire,E92000001,England,2
+E07000236,Redditch,Worcestershire,E92000001,England,2
+E07000237,Worcester,Worcestershire,E92000001,England,2
+E07000238,Wychavon,Worcestershire,E92000001,England,2
+E07000239,Wyre Forest,Worcestershire,E92000001,England,2
+E07000240,St Albans,Hertfordshire,E92000001,England,2
+E07000241,Welwyn Hatfield,Hertfordshire,E92000001,England,2
+E07000242,East Hertfordshire,Hertfordshire,E92000001,England,2
+E07000243,Stevenage,Hertfordshire,E92000001,England,2
+E07000244,East Suffolk,Suffolk,E92000001,England,2
+E07000245,West Suffolk,Suffolk,E92000001,England,2
+E07000246,Somerset West and Taunton,"South Somerset, Somerset West and Taunton, Mendip and Sedgemoor",E92000001,England,2
+E08000001,Bolton,Greater Manchester,E92000001,England,3
+E08000002,Bury,Greater Manchester,E92000001,England,3
+E08000003,Manchester,Greater Manchester,E92000001,England,3
+E08000004,Oldham,Greater Manchester,E92000001,England,3
+E08000005,Rochdale,Greater Manchester,E92000001,England,3
+E08000006,Salford,Greater Manchester,E92000001,England,3
+E08000007,Stockport,Greater Manchester,E92000001,England,3
+E08000008,Tameside,Greater Manchester,E92000001,England,3
+E08000009,Trafford,Greater Manchester,E92000001,England,3
+E08000010,Wigan,Greater Manchester,E92000001,England,3
+E08000011,Knowsley,Liverpool City Region,E92000001,England,2
+E08000012,Liverpool,Liverpool City Region,E92000001,England,2
+E08000013,St. Helens,Liverpool City Region,E92000001,England,2
+E08000014,Sefton,Liverpool City Region,E92000001,England,2
+E08000015,Wirral,Liverpool City Region,E92000001,England,2
+E08000016,Barnsley,South Yorkshire,E92000001,England,3
+E08000017,Doncaster,South Yorkshire,E92000001,England,3
+E08000018,Rotherham,South Yorkshire,E92000001,England,3
+E08000019,Sheffield,South Yorkshire,E92000001,England,3
+E08000021,Newcastle upon Tyne,Newcastle upon Tyne,E92000001,England,3
+E08000022,North Tyneside,North Tyneside,E92000001,England,3
+E08000023,South Tyneside,South Tyneside,E92000001,England,3
+E08000024,Sunderland,Sunderland,E92000001,England,3
+E08000025,Birmingham,Birmingham and Black Country,E92000001,England,3
+E08000026,Coventry,"Warwickshire, Coventry and Solihull",E92000001,England,3
+E08000027,Dudley,Birmingham and Black Country,E92000001,England,3
+E08000028,Sandwell,Birmingham and Black Country,E92000001,England,3
+E08000029,Solihull,"Warwickshire, Coventry and Solihull",E92000001,England,3
+E08000030,Walsall,Birmingham and Black Country,E92000001,England,3
+E08000031,Wolverhampton,Birmingham and Black Country,E92000001,England,3
+E08000032,Bradford,West Yorkshire,E92000001,England,3
+E08000033,Calderdale,West Yorkshire,E92000001,England,3
+E08000034,Kirklees,West Yorkshire,E92000001,England,3
+E08000035,Leeds,West Yorkshire,E92000001,England,3
+E08000036,Wakefield,West Yorkshire,E92000001,England,3
+E08000037,Gateshead,Gateshead,E92000001,England,3
+E09000001,City of London,City of London,E92000001,England,2
+E09000002,Barking and Dagenham,Barking and Dagenham,E92000001,England,2
+E09000003,Barnet,Barnet,E92000001,England,2
+E09000004,Bexley,Bexley,E92000001,England,2
+E09000005,Brent,Brent,E92000001,England,2
+E09000006,Bromley,Bromley,E92000001,England,2
+E09000007,Camden,Camden,E92000001,England,2
+E09000008,Croydon,Croydon,E92000001,England,2
+E09000009,Ealing,Ealing,E92000001,England,2
+E09000010,Enfield,Enfield,E92000001,England,2
+E09000011,Greenwich,Greenwich,E92000001,England,2
+E09000012,Hackney,Hackney,E92000001,England,2
+E09000013,Hammersmith and Fulham,Hammersmith and Fulham,E92000001,England,2
+E09000014,Haringey,Haringey,E92000001,England,2
+E09000015,Harrow,Harrow,E92000001,England,2
+E09000016,Havering,Havering,E92000001,England,2
+E09000017,Hillingdon,Hillingdon,E92000001,England,2
+E09000018,Hounslow,Hounslow,E92000001,England,2
+E09000019,Islington,Islington,E92000001,England,2
+E09000020,Kensington and Chelsea,Kensington and Chelsea,E92000001,England,2
+E09000021,Kingston upon Thames,Kingston upon Thames,E92000001,England,2
+E09000022,Lambeth,Lambeth,E92000001,England,2
+E09000023,Lewisham,Lewisham,E92000001,England,2
+E09000024,Merton,Merton,E92000001,England,2
+E09000025,Newham,Newham,E92000001,England,2
+E09000026,Redbridge,Redbridge,E92000001,England,2
+E09000027,Richmond upon Thames,Richmond upon Thames,E92000001,England,2
+E09000028,Southwark,Southwark,E92000001,England,2
+E09000029,Sutton,Sutton,E92000001,England,2
+E09000030,Tower Hamlets,Tower Hamlets,E92000001,England,2
+E09000031,Waltham Forest,Waltham Forest,E92000001,England,2
+E09000032,Wandsworth,Wandsworth,E92000001,England,2
+E09000033,Westminster,Westminster,E92000001,England,2

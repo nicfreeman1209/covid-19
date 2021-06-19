@@ -1,0 +1,117 @@
+﻿Map Number,Geography Code,Region,Local authority areas,Percentage testing positive,95% CI lower,95% CI upper,Interim IDs
+1,J06000101,North East,Northumberland,1.46%,0.84%,2.54%,36
+2,J06000102,North East,North Tyneside,2.08%,1.14%,3.62%,77
+3,J06000103,North East,Newcastle upon Tyne,2.61%,1.53%,4.42%,76
+4,J06000104,North East,South Tyneside; Sunderland; Gateshead,1.59%,0.99%,2.54%,78
+5,J06000105,North East,Darlington; County Durham,1.69%,1.04%,2.68%,2
+6,J06000106,North East,Hartlepool; Middlesbrough; Redcar and Cleveland; Stockton-on-Tees,2.35%,1.52%,3.59%,1
+7,J06000107,North West,Allerdale; Barrow-in-Furness; Carlisle; Copeland; Eden; South Lakeland,0.41%,0.14%,1.10%,41
+8,J06000108,North West,Blackpool; Fylde; Lancaster; Preston; Ribble Valley; South Ribble; Wyre,1.45%,0.95%,2.22%,5
+9,J06000109,North West,Burnley; Hyndburn; Pendle; Rossendale; Bury,2.93%,2.05%,4.15%,65
+10,J06000110,North West,Blackburn with Darwen; Chorley; Bolton,3.65%,2.68%,5.02%,4
+11,J06000111,North West,Rochdale,2.44%,1.37%,4.27%,68
+12,J06000112,North West,Oldham,1.82%,0.96%,3.32%,67
+13,J06000113,North West,West Lancashire; Knowsley; Liverpool; Sefton,1.54%,1.00%,2.36%,51
+14,J06000114,North West,Wigan; St. Helens,2.26%,1.52%,3.33%,72
+15,J06000115,North West,Salford,2.58%,1.55%,4.27%,69
+16,J06000116,North West,Tameside,3.43%,2.13%,5.52%,71
+17,J06000117,North West,Manchester,2.01%,1.28%,3.10%,66
+18,J06000118,North West,Halton; Warrington; Trafford,2.12%,1.52%,2.97%,3
+19,J06000119,North West,Stockport,1.20%,0.74%,1.96%,70
+20,J06000120,North West,Wirral,1.85%,1.13%,3.06%,73
+21,J06000121,North West,Cheshire East,0.82%,0.45%,1.52%,30
+22,J06000122,North West,Cheshire West and Chester,1.01%,0.56%,1.83%,31
+23,J06000123,Yorkshire and The Humber,Craven; Hambleton; Harrogate; Richmondshire; Ryedale; Scarborough; Selby,2.00%,1.37%,2.97%,55
+24,J06000124,Yorkshire and The Humber,York,0.77%,0.38%,1.51%,9
+25,J06000125,Yorkshire and The Humber,East Riding of Yorkshire,1.34%,0.78%,2.27%,7
+26,J06000126,Yorkshire and The Humber,Bradford,2.37%,1.55%,3.54%,85
+27,J06000127,Yorkshire and The Humber,Leeds,1.86%,1.25%,2.70%,88
+28,J06000128,Yorkshire and The Humber,"Kingston upon Hull, City of",2.36%,1.20%,4.71%,6
+29,J06000129,Yorkshire and The Humber,Calderdale,2.29%,1.41%,3.73%,86
+30,J06000130,Yorkshire and The Humber,Wakefield,1.91%,1.09%,3.39%,89
+31,J06000131,Yorkshire and The Humber,Kirklees,2.20%,1.50%,3.25%,87
+32,J06000132,Yorkshire and The Humber,Barnsley,2.32%,1.36%,3.96%,74
+33,J06000133,Yorkshire and The Humber,North East Lincolnshire; North Lincolnshire; Doncaster; Rotherham,1.98%,1.36%,2.86%,8
+34,J06000134,Yorkshire and The Humber,Sheffield,2.12%,1.43%,3.14%,75
+35,J06000135,East Midlands,Ashfield; Bassetlaw; Broxtowe; Gedling; Mansfield; Newark and Sherwood; Rushcliffe,1.09%,0.71%,1.68%,56
+36,J06000136,East Midlands,Boston; East Lindsey; Lincoln; North Kesteven; South Holland; South Kesteven; West Lindsey,1.28%,0.82%,1.98%,53
+37,J06000137,East Midlands,Amber Valley; Bolsover; Chesterfield; Derbyshire Dales; Erewash; High Peak; North East Derbyshire; South Derbyshire,2.11%,1.45%,3.01%,42
+38,J06000138,East Midlands,Nottingham,1.72%,0.86%,3.47%,13
+39,J06000139,East Midlands,Derby,1.64%,0.79%,3.41%,10
+40,J06000140,East Midlands,Blaby; Charnwood; Harborough; Hinckley and Bosworth; Melton; North West Leicestershire; Oadby and Wigston,1.89%,1.30%,2.75%,52
+41,J06000141,East Midlands,Leicester,1.06%,0.46%,2.40%,11
+42,J06000142,East Midlands,Rutland; Corby; Daventry; East Northamptonshire; Kettering; Northampton; South Northamptonshire; Wellingborough,1.00%,0.58%,1.73%,12
+43,J06000143,West Midlands,Telford and Wrekin; Stoke-on-Trent; Stafford,1.63%,0.98%,2.73%,15
+44,J06000144,West Midlands,Cannock Chase; East Staffordshire; Lichfield; Newcastle-under-Lyme; South Staffordshire; Staffordshire Moorlands; Tamworth,2.43%,1.73%,3.41%,59
+45,J06000145,West Midlands,Shropshire,0.68%,0.32%,1.38%,32
+46,J06000146,West Midlands,Walsall,1.83%,0.93%,3.51%,83
+47,J06000147,West Midlands,Wolverhampton,1.52%,0.73%,3.09%,84
+48,J06000148,West Midlands,Sandwell,1.17%,0.52%,2.54%,81
+49,J06000149,West Midlands,Birmingham,2.82%,1.90%,4.26%,79
+50,J06000150,West Midlands,Solihull,2.87%,1.65%,4.95%,82
+51,J06000151,West Midlands,Coventry,2.33%,1.34%,4.05%,80
+52,J06000152,West Midlands,Bromsgrove; Redditch; Dudley,0.98%,0.53%,1.73%,63
+53,J06000153,West Midlands,North Warwickshire; Nuneaton and Bedworth; Rugby; Stratford-on-Avon; Warwick,0.94%,0.56%,1.55%,61
+54,J06000154,West Midlands,"Herefordshire, County of; Malvern Hills; Worcester; Wychavon; Wyre Forest",0.69%,0.38%,1.22%,14
+55,J06000155,East of England,Breckland; Broadland; Great Yarmouth; King's Lynn and West Norfolk; North Norfolk; Norwich; South Norfolk,0.66%,0.39%,1.10%,54
+56,J06000156,East of England,Peterborough,0.57%,0.18%,1.66%,20
+57,J06000157,East of England,Cambridge; East Cambridgeshire; Fenland; Huntingdonshire; South Cambridgeshire,0.46%,0.24%,0.83%,40
+58,J06000158,East of England,Suffolk Coastal; Waveney,0.93%,0.45%,1.85%,64
+59,J06000159,East of England,Tendring; Babergh; Forest Heath; Ipswich; Mid Suffolk; St Edmundsbury,0.47%,0.24%,0.89%,46
+60,J06000160,East of England,Luton; Bedford; Central Bedfordshire,0.46%,0.22%,0.92%,35
+61,J06000161,East of England,Broxbourne; Dacorum; Hertsmere; North Hertfordshire; Three Rivers; Watford; St Albans; Welwyn Hatfield; East Hertfordshire; Stevenage,0.88%,0.59%,1.30%,48
+62,J06000162,East of England,Southend-on-Sea; Braintree; Chelmsford; Colchester; Maldon; Rochford; Uttlesford,0.74%,0.47%,1.17%,45
+63,J06000163,East of England,Thurrock; Basildon; Brentwood; Castle Point; Epping Forest; Harlow,0.75%,0.43%,1.29%,21
+64,J06000164,London,Enfield,0.93%,0.46%,1.80%,99
+65,J06000165,London,Barnet,1.24%,0.72%,2.13%,92
+66,J06000166,London,Waltham Forest,1.48%,0.81%,2.79%,115
+67,J06000167,London,Harrow,0.49%,0.19%,1.20%,103
+68,J06000168,London,Redbridge,1.87%,1.07%,3.27%,110
+69,J06000169,London,Haringey,0.70%,0.33%,1.42%,102
+70,J06000170,London,Havering,1.65%,0.99%,2.73%,104
+71,J06000171,London,Brent,1.79%,0.89%,3.68%,94
+72,J06000172,London,Barking and Dagenham,0.98%,0.39%,2.35%,91
+73,J06000173,London,City of London; Hackney; Islington,1.13%,0.65%,1.90%,90
+74,J06000174,London,Camden,0.66%,0.28%,1.48%,96
+75,J06000175,London,Hillingdon,0.38%,0.13%,0.99%,105
+76,J06000176,London,Newham,1.84%,0.94%,3.59%,109
+77,J06000177,London,Ealing,1.38%,0.84%,2.26%,98
+78,J06000178,London,Tower Hamlets,0.52%,0.21%,1.27%,114
+79,J06000179,London,Hammersmith and Fulham; Kensington and Chelsea; Westminster,0.92%,0.46%,1.77%,101
+80,J06000180,London,Greenwich,0.72%,0.37%,1.34%,100
+81,J06000181,London,Bexley,1.18%,0.69%,2.06%,93
+82,J06000182,London,Southwark,0.56%,0.26%,1.16%,112
+83,J06000183,London,Lambeth,1.03%,0.54%,1.99%,107
+84,J06000184,London,Hounslow,0.69%,0.31%,1.46%,106
+85,J06000185,London,Lewisham,0.45%,0.18%,0.99%,108
+86,J06000186,London,Wandsworth,0.70%,0.33%,1.49%,116
+87,J06000187,London,Kingston upon Thames; Merton; Richmond upon Thames,0.68%,0.40%,1.16%,111
+88,J06000188,London,Bromley,0.62%,0.34%,1.08%,95
+89,J06000189,London,Sutton,1.16%,0.60%,2.23%,113
+90,J06000190,London,Croydon,1.18%,0.67%,2.12%,97
+91,J06000191,South East,Milton Keynes,0.72%,0.31%,1.60%,25
+92,J06000192,South East,Aylesbury Vale; Chiltern; South Bucks; Wycombe,0.51%,0.17%,1.37%,39
+93,J06000193,South East,West Berkshire; Cherwell; Oxford; South Oxfordshire; Vale of White Horse; West Oxfordshire,0.83%,0.51%,1.35%,57
+94,J06000194,South East,Medway,0.90%,0.40%,2.05%,22
+95,J06000195,South East,Bracknell Forest; Slough; Windsor and Maidenhead; Runnymede; Spelthorne; Surrey Heath,1.41%,0.86%,2.32%,23
+96,J06000196,South East,Reading; Wokingham; Hart; Rushmoor,0.51%,0.23%,1.12%,24
+97,J06000197,South East,Canterbury; Dover; Swale; Thanet,1.36%,0.82%,2.30%,49
+98,J06000198,South East,Elmbridge; Epsom and Ewell; Guildford; Mole Valley; Reigate and Banstead; Tandridge; Waverley; Woking,0.90%,0.54%,1.45%,60
+99,J06000199,South East,Ashford; Dartford; Gravesham; Maidstone; Sevenoaks; Folkestone and Hythe; Tonbridge and Malling; Tunbridge Wells,1.09%,0.71%,1.67%,50
+100,J06000200,South East,Isle of Wight; Basingstoke and Deane; East Hampshire; Eastleigh; Fareham; Gosport; Havant; New Forest; Test Valley; Winchester,0.70%,0.44%,1.11%,29
+101,J06000201,South East,Eastbourne; Hastings; Lewes; Rother; Wealden,0.55%,0.27%,1.07%,44
+102,J06000202,South East,Adur; Arun; Chichester; Crawley; Horsham; Mid Sussex; Worthing,0.69%,0.40%,1.16%,62
+103,J06000203,South East,Southampton,0.95%,0.37%,2.35%,28
+104,J06000204,South East,Brighton and Hove,1.15%,0.62%,2.17%,26
+105,J06000205,South East,Portsmouth,1.19%,0.52%,2.60%,27
+106,J06000206,South West,Cheltenham; Cotswold; Forest of Dean; Gloucester; Stroud; Tewkesbury,0.49%,0.23%,1.00%,47
+107,J06000207,South West,Swindon,0.60%,0.25%,1.38%,19
+108,J06000208,South West,South Gloucestershire,1.45%,0.81%,2.59%,17
+109,J06000209,South West,"Bath and North East Somerset; Bristol, City of; North Somerset",1.21%,0.76%,1.96%,16
+110,J06000210,South West,Wiltshire,0.65%,0.31%,1.41%,34
+111,J06000211,South West,Mendip; Sedgemoor; South Somerset; Taunton Deane; West Somerset,1.02%,0.54%,1.87%,58
+112,J06000212,South West,East Devon; Exeter; Mid Devon; North Devon; Teignbridge; Torridge; West Devon,0.68%,0.38%,1.23%,43
+113,J06000213,South West,East Dorset; North Dorset; Purbeck; West Dorset; Weymouth and Portland,0.72%,0.29%,1.88%,38
+114,J06000214,South West,Bournemouth; Poole; Christchurch,1.09%,0.54%,2.28%,37
+115,J06000215,South West,Cornwall; Isles of Scilly,0.49%,0.24%,0.95%,33
+116,J06000216,South West,Plymouth; Torbay; South Hams,0.68%,0.35%,1.28%,18
